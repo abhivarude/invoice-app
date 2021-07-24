@@ -1,0 +1,36 @@
+.body{
+
+    background-color: black;
+}
+
+.loginheader{
+
+    font-size: 60px;
+    padding-top: 150px;
+    color: rgb(18, 20, 27);
+    font-weight: 800;
+}
+.container1
+{
+    height: 500px;
+    background-color: rgb(41, 171, 194);
+    font-weight: 800;
+
+}
+
+.log{
+
+    padding-top: 100px;
+   
+}
+.loding{
+
+    color: black;
+}
+
+
+.contbody
+{
+    padding: 300px;
+    
+}

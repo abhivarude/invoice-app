@@ -1,0 +1,54 @@
+.homenavbar{
+    background-color: rgb(227, 231, 220);
+    border: 5px solid rgb(19, 17, 17);
+    padding: 0px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+
+
+
+
+.homehead{
+color:rgb(247, 241, 241);
+    background-color: black;
+margin: 20px;
+padding-top: 90px;
+padding-bottom: 90px;
+border: 5px solid rgb(231, 226, 225);
+border-radius: 10px;
+}
+
+.infobody
+{
+    margin: 20px;
+    border: 5px solid rgb(22, 21, 21);
+    border-radius: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+text-align: center;
+padding-left: 150px;
+
+
+}
+
+.carddesign
+{
+
+  padding: 20px;
+}
+
+#signup{
+
+    padding-left: 1350px;
+}
+
+.invoice-logo{
+
+    font-size: 40px;
+color: rgb(13, 13, 15);
+font-weight: 700;
+
+    height: 90px;
+}

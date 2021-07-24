@@ -1,0 +1,14 @@
+.style{
+background-color: rgb(7, 8, 8);
+    
+    padding: 200px;
+}
+
+.container2{
+padding: 70px;
+    background-color: rgb(34, 132, 139);
+    border: 2px solid rgb(19, 15, 15);
+    color: black;
+    font-weight: 700;
+    border-radius: 10px;
+}   
